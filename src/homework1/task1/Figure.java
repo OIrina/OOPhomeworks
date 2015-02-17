@@ -1,4 +1,4 @@
-package homework1.task1Circle;
+package homework1.task1;
 
 /**
  * Created by ira on 16.02.15.

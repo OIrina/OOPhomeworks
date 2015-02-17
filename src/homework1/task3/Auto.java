@@ -1,4 +1,4 @@
-package homework1.task3Auto;
+package homework1.task3;
 
 /**
  * Created by ira on 16.02.15.

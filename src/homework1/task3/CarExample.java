@@ -1,12 +1,12 @@
-package homework1.task3Auto;
+package homework1.task3;
 
 /**
  * Created by ira on 17.02.15.
  */
-public class Pevgeout {
+public class CarExample {
     public static void main(String[] args) {
 
-        Auto car1 = new Auto("Pevgeout", "blue", 70);
+        Auto car1 = new Auto("Peugeot", "blue", 70);
 
         System.out.println("Car1 is: " + car1.colour + car1.name);
 

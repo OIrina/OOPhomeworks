@@ -1,11 +1,11 @@
-package homework1.task2Counter;
+package homework1.task2;
 
 /**
  * Created by ira on 16.02.15.
  */
 public class Counter {
 
-    public static int count;
+    static int count;
 
     public Counter() {
         count++;
