@@ -5,9 +5,13 @@ package homework1.task2;
  */
 public class Counter {
 
-    static int count;
+    private static int count;
 
     public Counter() {
         count++;
+    }
+
+    public static int getCount() {
+        return count;
     }
 }
